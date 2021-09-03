@@ -35,7 +35,12 @@
  ![Atom](https://img.shields.io/badge/-Atom-fadedgreen?style=flat-square&logo=Atom)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsingh-24" alt="amitsingh-24" /> </p>
+<p align=center>
+<img height="22" src="https://badges.pufler.dev/visits/amitsingh-24/amitsingh-24?color=black&logo=github" />
+<img height="22" src="https://komarev.com/ghpvc/?username=amitsingh-24" alt="amitsingh-24"/>
+<a href="https://github.com/amitsingh-24">
+</a>
+</p>
 
 <!---
 amitsingh-24/amitsingh-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
