@@ -1,14 +1,18 @@
 <h1  align="center" ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm Amit Singh Rajawat Nice to see you.</h1>
+
+---
 <h3 align="center">A passionate developer and Programmer.</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-
+---
 - 👀 I’m interested in Artificial Intelligence & Machine learning and in Open Source contribution.
 - 🌱 I’m currently a Second  year undergraduate (grad. 2024) pursuing my degree in Artificial Intelligence and Robotics.
 - 💞️ I’m looking to collaborate on Many projects that improves our community.
 - 📫 You can reach me via my email i.e, imamitsingh958@gmail.com
+
+---
 
 ## 🚀💻 Technologies & Tools 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -34,6 +38,11 @@
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
  ![Atom](https://img.shields.io/badge/-Atom-fadedgreen?style=flat-square&logo=Atom)
 
+---
+
+![Amit Singh Rajawat's github stats](https://github-readme-stats.vercel.app/api?username=amitsingh-24&show_icons=true&hide=contribs,issues,stars,,commits,prs)
+
+---
 
 <p align=center>
 <img height="22" src="https://badges.pufler.dev/visits/amitsingh-24/amitsingh-24?color=black&logo=github" />
