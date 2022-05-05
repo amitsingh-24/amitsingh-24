@@ -45,7 +45,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/amitsingh-24/github-readme-stats"><img alt="Amit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitsingh-24&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/amitsingh-24/github-readme-stats"><img alt="Amit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitsingh-24&show_icons=true&count_private=true&hide=issues&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsingh-24&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="amitsingh-24" height="192px"/>
