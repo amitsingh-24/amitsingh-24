@@ -40,9 +40,29 @@
 
 ---
 
-![Amit Singh Rajawat's github stats](https://github-readme-stats.vercel.app/api?username=amitsingh-24&show_icons=true&hide=contribs,issues,stars,,commits,prs)
+## 📊 Github Stats
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/amitsingh-24/github-readme-stats"><img alt="Amit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitsingh-24&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsingh-24&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="amitsingh-24" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
 ---
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/amitsingh-24/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitsingh-24&layout=compact&theme=algolia" alt="amitsingh-24" /></a> </p>
+
+---
+<div align=center>
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+    <p>Loading</p>
+</div>
 
 <p align=center>
 <img height="22" src="https://badges.pufler.dev/visits/amitsingh-24/amitsingh-24?color=black&logo=github" />
@@ -50,6 +70,7 @@
 <a href="https://github.com/amitsingh-24">
 </a>
 </p>
+
 
 <!---
 amitsingh-24/amitsingh-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
