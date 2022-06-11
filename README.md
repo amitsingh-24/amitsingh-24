@@ -71,6 +71,8 @@
 </a>
 </p>
 
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/amitsingh-24/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 amitsingh-24/amitsingh-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
