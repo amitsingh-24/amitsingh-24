@@ -59,11 +59,18 @@
 <p align="center"> <a href="https://github.com/amitsingh-24/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitsingh-24&layout=compact&theme=algolia" alt="amitsingh-24" /></a> </p>
 
 ---
+
+
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/amitsingh-24/Actions/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <div align=center>
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
     <p>Loading</p>
 </div>
-
 <p align=center>
 <img height="22" src="https://badges.pufler.dev/visits/amitsingh-24/amitsingh-24?color=black&logo=github" />
 <img height="22" src="https://komarev.com/ghpvc/?username=amitsingh-24" alt="amitsingh-24"/>
@@ -71,8 +78,6 @@
 </a>
 </p>
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/amitsingh-24/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 amitsingh-24/amitsingh-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
