@@ -71,12 +71,9 @@
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
     <p>Loading</p>
 </div>
-<p align=center>
-<img height="22" src="https://badges.pufler.dev/visits/amitsingh-24/amitsingh-24?color=black&logo=github" />
-<img height="22" src="https://komarev.com/ghpvc/?username=amitsingh-24" alt="amitsingh-24"/>
-<a href="https://github.com/amitsingh-24">
-</a>
-</p>
+
+
+---
 
 
 <!---
