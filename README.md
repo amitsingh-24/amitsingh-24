@@ -39,7 +39,7 @@
  ![Atom](https://img.shields.io/badge/-Atom-fadedgreen?style=flat-square&logo=Atom)
 
 ---
-
+<!---
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -58,7 +58,6 @@
 ---
 
 
-
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/amitsingh-24/Actions/blob/output/github-contribution-grid-snake.svg)
 
@@ -68,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
     <p>Loading</p>
 </div>
-
+--->
 
 ---
 
