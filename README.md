@@ -13,6 +13,7 @@
   <a href="https://medium.com/@thisisamitsingh007"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
   <a href="https://topmate.io/amit_singh66"><img src="https://img.shields.io/badge/-Topmate-0A66C2?style=flat-square&logo=googlemeet&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=9qU4NcAAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=amitsingh-24&label=Profile%20views&color=0e75b6&style=flat&border-radius=5px" alt="amitsingh-24" /></p>
 </p>
 
 ---
